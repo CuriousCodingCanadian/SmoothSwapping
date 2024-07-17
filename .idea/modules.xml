@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.21-Port.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.21-Port.fabric.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.21-Port.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.21-Port.fabric.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.21-Port.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.21-Port.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/dev.shwg.Smooth-Swapping-1.21-Port.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/dev.shwg.Smooth-Swapping-1.21-Port.forge.main.iml" />
     </modules>
   </component>
 </project>
