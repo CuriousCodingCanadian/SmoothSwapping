@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.Common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.Common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.Common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.Common.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.Common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.Common.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.20.4-Port.Fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.20.4-Port.Fabric.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.20.4-Port.Fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.20.4-Port.Fabric.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.20.4-Port.NeoForge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.20.4-Port.NeoForge.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.20.4-Port.NeoForge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.20.4-Port.NeoForge.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.test.iml" />

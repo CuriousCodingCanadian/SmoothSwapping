@@ -6,9 +6,9 @@
   "description": "Moves the items in an inventory smoothly instead of instantly",
   "authors": ["Eesa"],
   "contact": {
-    "homepage": "https://modrinth.com/mod/smooth-swapping",
-    "sources": "https://github.com/Schauweg/Smooth-Swapping",
-    "issues": "https://github.com/Schauweg/Smooth-Swapping/issues"
+    "homepage": "https://modrinth.com/mod/smooth-swapping-new",
+    "sources": "https://github.com/CuriousCodingCanadian/SmoothSwapping",
+    "issues": "https://github.com/curiousCodingCanadian/SmoothSwapping/issues"
   },
   "license": "GNU LGPL 3.0",
   "icon": "assets/smoothswapping/icon.png",
