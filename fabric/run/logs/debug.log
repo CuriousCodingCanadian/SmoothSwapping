@@ -1,0 +1,158 @@
+[00:39:35] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21 with Fabric Loader 0.15.11
+[00:39:35] [main/DEBUG] (FabricLoader/GamePatch) Found game constructor: net.minecraft.client.main.Main -> net.minecraft.client.MinecraftClient
+[00:39:35] [main/DEBUG] (FabricLoader/GamePatch) Patching game constructor <init>(Lnet/minecraft/client/RunArgs;)V
+[00:39:35] [main/DEBUG] (FabricLoader/GamePatch) Run directory field is thought to be net/minecraft/client/MinecraftClient/runDirectory
+[00:39:35] [main/DEBUG] (FabricLoader/GamePatch) Applying brand name hook to net/minecraft/client/ClientBrandRetriever::getClientModName
+[00:39:35] [main/DEBUG] (FabricLoader/GamePatch) Applying brand name hook to net/minecraft/server/MinecraftServer::getServerModName
+[00:39:35] [main/DEBUG] (FabricLoader/Mappings) Loading mappings took 127 ms
+[00:39:35] [main/DEBUG] (FabricLoader/GamePatch) Patched 3 classs
+[00:39:35] [main/DEBUG] (FabricLoader/Discovery) Mod discovery time: 19.4 ms
+[00:39:35] [main/DEBUG] (FabricLoader/Resolution) Mod resolution time: 47.7 ms
+[00:39:35] [main/INFO] (FabricLoader) Loading 57 mods:
+	- fabric-api 0.100.7+1.21
+	- fabric-api-base 0.4.42+6573ed8cd1
+	- fabric-api-lookup-api-v1 1.6.67+b5597344d1
+	- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
+	- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	- fabric-command-api-v1 1.2.49+f71b366fd1
+	- fabric-command-api-v2 2.2.28+6ced4dd9d1
+	- fabric-commands-v0 0.2.66+df3654b3d1
+	- fabric-content-registries-v0 8.0.15+b5597344d1
+	- fabric-convention-tags-v1 2.0.18+7f945d5bd1
+	- fabric-convention-tags-v2 2.4.2+c111832ad1
+	- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	- fabric-data-attachment-api-v1 1.1.25+6a6dfa19d1
+	- fabric-data-generation-api-v1 20.2.12+16c4ae25d1
+	- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	- fabric-events-interaction-v0 0.7.10+e633f883d1
+	- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
+	- fabric-gametest-api-v1 2.0.3+6fc22b99d1
+	- fabric-item-api-v1 11.0.0+afdfc921d1
+	- fabric-item-group-api-v1 4.1.3+78017270d1
+	- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	- fabric-keybindings-v0 0.2.45+df3654b3d1
+	- fabric-lifecycle-events-v1 2.3.11+8f3583aed1
+	- fabric-loot-api-v2 3.0.13+3f89f5a5d1
+	- fabric-loot-api-v3 1.0.1+3f89f5a5d1
+	- fabric-message-api-v1 6.0.13+6573ed8cd1
+	- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	- fabric-networking-api-v1 4.2.0+ab7edbacd1
+	- fabric-object-builder-api-v1 15.1.13+d1321076d1
+	- fabric-particles-v1 4.0.2+6573ed8cd1
+	- fabric-recipe-api-v1 5.0.10+65089712d1
+	- fabric-registry-sync-v0 5.0.25+5bd9f1bcd1
+	- fabric-renderer-api-v1 3.3.0+0ae0b97dd1
+	- fabric-renderer-indigo 1.6.5+48fb1586d1
+	- fabric-renderer-registries-v1 3.2.68+df3654b3d1
+	- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	- fabric-rendering-v0 1.1.71+df3654b3d1
+	- fabric-rendering-v1 5.0.5+df16efd0d1
+	- fabric-resource-conditions-api-v1 4.2.1+d153f344d1
+	- fabric-resource-loader-v0 1.2.0+7e687b32d1
+	- fabric-screen-api-v1 2.0.24+b5597344d1
+	- fabric-screen-handler-api-v1 1.3.82+b5597344d1
+	- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	- fabric-transfer-api-v1 5.1.15+3dccd343d1
+	- fabric-transitive-access-wideners-v1 6.0.12+6573ed8cd1
+	- fabricloader 0.15.11
+	- generated_a7535e6 1.0.0
+	- java 21
+	- minecraft 1.21
+	- mixinextras 0.3.5
+	- modmenu 11.0.1
+	- smoothswapping 0.9.2
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-loot-api-v3/1.0.1+3f89f5a5d1/fabric-loot-api-v3-1.0.1+3f89f5a5d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-api/0.100.7+1.21/fabric-api-0.100.7+1.21.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-item-api-v1/11.0.0+afdfc921d1/fabric-item-api-v1-11.0.0+afdfc921d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-command-api-v2/2.2.28+6ced4dd9d1/fabric-command-api-v2-2.2.28+6ced4dd9d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/fabric/build/resources/main to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1/4.2.1+d153f344d1/fabric-resource-conditions-api-v1-4.2.1+d153f344d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-dimensions-v1/4.0.0+6fc22b99d1/fabric-dimensions-v1-4.0.0+6fc22b99d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-lifecycle-events-v1/2.3.11+8f3583aed1/fabric-lifecycle-events-v1-2.3.11+8f3583aed1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-keybindings-v0/0.2.45+df3654b3d1/fabric-keybindings-v0-0.2.45+df3654b3d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/.gradle/caches/modules-2/files-2.1/io.github.llamalad7/mixinextras-fabric/0.3.5/3b577be20ea942610b3045e4f0cd909fa415a9d3/mixinextras-fabric-0.3.5.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-recipe-api-v1/5.0.10+65089712d1/fabric-recipe-api-v1-5.0.10+65089712d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-renderer-indigo/1.6.5+48fb1586d1/fabric-renderer-indigo-1.6.5+48fb1586d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-block-view-api-v2/1.0.10+6573ed8cd1/fabric-block-view-api-v2-1.0.10+6573ed8cd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-api-base/0.4.42+6573ed8cd1/fabric-api-base-0.4.42+6573ed8cd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1/6.0.12+6573ed8cd1/fabric-transitive-access-wideners-v1-6.0.12+6573ed8cd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-loot-api-v2/3.0.13+3f89f5a5d1/fabric-loot-api-v2-3.0.13+3f89f5a5d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-registry-sync-v0/5.0.25+5bd9f1bcd1/fabric-registry-sync-v0-5.0.25+5bd9f1bcd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-blockrenderlayer-v1/1.1.52+0af3f5a7d1/fabric-blockrenderlayer-v1-1.1.52+0af3f5a7d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-screen-api-v1/2.0.24+b5597344d1/fabric-screen-api-v1-2.0.24+b5597344d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-rendering-data-attachment-v1/0.3.48+73761d2ed1/fabric-rendering-data-attachment-v1-0.3.48+73761d2ed1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-screen-handler-api-v1/1.3.82+b5597344d1/fabric-screen-handler-api-v1-1.3.82+b5597344d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-particles-v1/4.0.2+6573ed8cd1/fabric-particles-v1-4.0.2+6573ed8cd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-model-loading-api-v1/2.0.0+fe474d6bd1/fabric-model-loading-api-v1-2.0.0+fe474d6bd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-networking-api-v1/4.2.0+ab7edbacd1/fabric-networking-api-v1-4.2.0+ab7edbacd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-block-api-v1/1.0.22+0af3f5a7d1/fabric-block-api-v1-1.0.22+0af3f5a7d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-convention-tags-v2/2.4.2+c111832ad1/fabric-convention-tags-v2-2.4.2+c111832ad1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-gametest-api-v1/2.0.3+6fc22b99d1/fabric-gametest-api-v1-2.0.3+6fc22b99d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-events-interaction-v0/0.7.10+e633f883d1/fabric-events-interaction-v0-0.7.10+e633f883d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-biome-api-v1/13.0.29+5bd9f1bcd1/fabric-biome-api-v1-13.0.29+5bd9f1bcd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-renderer-api-v1/3.3.0+0ae0b97dd1/fabric-renderer-api-v1-3.3.0+0ae0b97dd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-resource-loader-v0/1.2.0+7e687b32d1/fabric-resource-loader-v0-1.2.0+7e687b32d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-crash-report-info-v1/0.2.29+0af3f5a7d1/fabric-crash-report-info-v1-0.2.29+0af3f5a7d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-command-api-v1/1.2.49+f71b366fd1/fabric-command-api-v1-1.2.49+f71b366fd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-game-rule-api-v1/1.0.53+6ced4dd9d1/fabric-game-rule-api-v1-1.0.53+6ced4dd9d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-client-tags-api-v1/1.1.15+6573ed8cd1/fabric-client-tags-api-v1-1.1.15+6573ed8cd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-entity-events-v1/1.6.12+6fc22b99d1/fabric-entity-events-v1-1.6.12+6fc22b99d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-commands-v0/0.2.66+df3654b3d1/fabric-commands-v0-0.2.66+df3654b3d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-data-generation-api-v1/20.2.12+16c4ae25d1/fabric-data-generation-api-v1-20.2.12+16c4ae25d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-rendering-v1/5.0.5+df16efd0d1/fabric-rendering-v1-5.0.5+df16efd0d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-content-registries-v0/8.0.15+b5597344d1/fabric-content-registries-v0-8.0.15+b5597344d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /tmp/13484016901346029981.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-item-group-api-v1/4.1.3+78017270d1/fabric-item-group-api-v1-4.1.3+78017270d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/com/terraformersmc/modmenu/11.0.1/modmenu-11.0.1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-transfer-api-v1/5.1.15+3dccd343d1/fabric-transfer-api-v1-5.1.15+3dccd343d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-rendering-fluids-v1/3.1.6+b5597344d1/fabric-rendering-fluids-v1-3.1.6+b5597344d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-api-lookup-api-v1/1.6.67+b5597344d1/fabric-api-lookup-api-v1-1.6.67+b5597344d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-data-attachment-api-v1/1.1.25+6a6dfa19d1/fabric-data-attachment-api-v1-1.1.25+6a6dfa19d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-rendering-v0/1.1.71+df3654b3d1/fabric-rendering-v0-1.1.71+df3654b3d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-convention-tags-v1/2.0.18+7f945d5bd1/fabric-convention-tags-v1-2.0.18+7f945d5bd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-sound-api-v1/1.0.23+6573ed8cd1/fabric-sound-api-v1-1.0.23+6573ed8cd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-message-api-v1/6.0.13+6573ed8cd1/fabric-message-api-v1-6.0.13+6573ed8cd1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-object-builder-api-v1/15.1.13+d1321076d1/fabric-object-builder-api-v1-15.1.13+d1321076d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-renderer-registries-v1/3.2.68+df3654b3d1/fabric-renderer-registries-v1-3.2.68+df3654b3d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Knot) Adding /home/eesa/Smooth-Swapping-1.20.4-Port/.gradle/loom-cache/remapped_mods/net_fabricmc_yarn_1_21_1_21_build_9_v2/net/fabricmc/fabric-api/fabric-key-binding-api-v1/1.0.47+0af3f5a7d1/fabric-key-binding-api-v1-1.0.47+0af3f5a7d1.jar to classpath.
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer dev.ees4.smoothswapping.fabric.modmenu.ModmenuIntegration for mod smoothswapping (key modmenu)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer dev.ees4.smoothswapping.fabric.SmoothSwappingFabric for mod smoothswapping (key client)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.resource.conditions.ResourceConditionsImpl for mod fabric-resource-conditions-api-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.client.event.lifecycle.ClientLifecycleEventsImpl for mod fabric-lifecycle-events-v1 (key client)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.event.lifecycle.LifecycleEventsImpl for mod fabric-lifecycle-events-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.recipe.ingredient.client.CustomIngredientSyncClient for mod fabric-recipe-api-v1 (key client)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientInit for mod fabric-recipe-api-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.recipe.ingredient.CustomIngredientSync for mod fabric-recipe-api-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.client.indigo.Indigo for mod fabric-renderer-indigo (key client)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.loot.v2.LootInitializer for mod fabric-loot-api-v2 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.client.registry.sync.FabricRegistryClientInit for mod fabric-registry-sync-v0 (key client)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.registry.sync.FabricRegistryInit for mod fabric-registry-sync-v0 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.screenhandler.client.ClientNetworking for mod fabric-screen-handler-api-v1 (key client)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.screenhandler.Networking for mod fabric-screen-handler-api-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.networking.client.ClientNetworkingImpl::clientInit for mod fabric-networking-api-v1 (key client)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.networking.CommonPacketsImpl::init for mod fabric-networking-api-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.networking.NetworkingImpl::init for mod fabric-networking-api-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.tag.convention.v2.TranslationConventionLogWarnings for mod fabric-convention-tags-v2 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.gametest.FabricGameTestModInitializer for mod fabric-gametest-api-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.event.interaction.client.InteractionEventsRouterClient for mod fabric-events-interaction-v0 (key client)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.event.interaction.InteractionEventsRouter for mod fabric-events-interaction-v0 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.command.v1.LegacyHandler for mod fabric-command-api-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer com.terraformersmc.modmenu.ModMenuModMenuCompat for mod modmenu (key modmenu)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer com.terraformersmc.modmenu.ModMenu for mod modmenu (key client)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.lookup.ApiLookupImpl for mod fabric-api-lookup-api-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.attachment.AttachmentEntrypoint for mod fabric-data-attachment-api-v1 (key main)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.client.rendering.v0.RenderingCallbackInvoker for mod fabric-rendering-v0 (key client)
+[00:39:35] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.fabricmc.fabric.impl.tag.convention.ConventionLogWarnings for mod fabric-convention-tags-v1 (key main)
+[00:39:35] [main/ERROR] (FabricLoader) Uncaught exception in thread "main"
+java.lang.RuntimeException: Missing accessWidener file smoothswapping.accesswidener from mod smoothswapping
+	at net.fabricmc.loader.impl.FabricLoaderImpl.loadAccessWideners(FabricLoaderImpl.java:509) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:149) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.15.11.jar:?]
+	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) ~[?:?]
+	at dev.architectury.transformer.TransformerRuntime.main(TransformerRuntime.java:219) ~[?:?]

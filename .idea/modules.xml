@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.20.4-Port.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.20.4-Port.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.20.4-Port.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.20.4-Port.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.20.4-Port.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.20.4-Port.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.20.4-Port.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.20.4-Port.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.20.4-Port.forge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.21-Port.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.21-Port.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.21-Port.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.21-Port.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.21-Port.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Smooth-Swapping-1.21-Port.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.21-Port.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.21-Port.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.21-Port.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Smooth-Swapping-1.21-Port.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.21-Port.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.21-Port.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.21-Port.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Smooth-Swapping-1.21-Port.forge.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "Smooth Swapping",
   "description": "Moves the items in an inventory smoothly instead of instantly",
-  "authors": ["Schauweg"],
+  "authors": ["Eesa"],
   "contact": {
     "homepage": "https://modrinth.com/mod/smooth-swapping",
     "sources": "https://github.com/Schauweg/Smooth-Swapping",
@@ -14,9 +14,11 @@
   "icon": "assets/smoothswapping/icon.png",
   "environment": "client",
   "entrypoints": {
-    "client": ["dev.shwg.smoothswapping.fabric.SmoothSwappingFabric"],
+    "client": [
+      "dev.ees4.smoothswapping.fabric.SmoothSwappingFabric"
+    ],
     "modmenu": [
-      "dev.shwg.smoothswapping.fabric.modmenu.ModmenuIntegration"
+      "dev.ees4.smoothswapping.fabric.modmenu.ModmenuIntegration"
     ]
   },
   "mixins": [
@@ -24,7 +26,7 @@
   ],
   "accessWidener": "smoothswapping.accesswidener",
   "depends": {
-    "fabricloader": ">=0.14.21",
-    "minecraft": ">=1.20.4"
+    "fabricloader": ">=0.15.11",
+    "minecraft": ">=1.21"
   }
 }
